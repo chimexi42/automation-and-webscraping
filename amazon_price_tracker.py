@@ -1,0 +1,4 @@
+import bs4
+import urllib.request
+
+url ="https://www.amazon.com/KOOYNN-Inflatable-Dinosaur-Halloween-Costumes/dp/B08GH8BMRL/ref=sr_1_3_sspa?crid=3IV9QZECVDJHK&keywords=dinosaur%2Bcostumes%2Bfor%2Badults&qid=1654767902&sprefix=dinosaur%2Bcostumes%2Bfor%2Badults%2Caps%2C689&sr=8-3-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEySjQ3MTVPUFVONllYJmVuY3J5cHRlZElkPUEwNzc4MTc0MjlZSTZGSVVYQkpCUSZlbmNyeXB0ZWRBZElkPUEwMjczNTA2MVpDMkNUNTVSNVVJRCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1"
